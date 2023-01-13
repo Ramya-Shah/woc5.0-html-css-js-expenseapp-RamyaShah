@@ -96,5 +96,12 @@
     right: 0;
     font-size: 50px;
     margin: 20px;
-    background-image:radial-gradient(rgb(0, 126, 105),rgb(11, 14, 176)) ;
+    /* background-image:radial-gradient(rgb(0, 126, 105),rgb(11, 14, 176)) ; */
+    /* color: red; */
+    background-color: #00a3c0;
+    background-image:radial-gradient(rgb(0, 99, 247),rgb(2, 2, 23)) ;
+    background-size: 100%;
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
