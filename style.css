@@ -89,3 +89,12 @@
 #expense{
     margin: 15px;
 }
+
+#plus{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-size: 50px;
+    margin: 20px;
+    background-image:radial-gradient(rgb(0, 126, 105),rgb(11, 14, 176)) ;
+}
