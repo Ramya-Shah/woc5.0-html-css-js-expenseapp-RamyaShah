@@ -1,0 +1,54 @@
+.heading{
+    font-size: 75px;
+    background-color: black;
+    color: rgb(0, 0, 0);
+    background-image:radial-gradient(rgb(0, 255, 213),rgb(49, 52, 243)) ;
+    text-align: center;
+    /* width: 50%; */
+    margin: auto;
+    padding: 10px;
+    border: black solid 5px;
+    /* vertical-align: middle; */
+    outline: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+
+}
+
+.heading2{
+    font-size: 50px;
+    background-color: black;
+    color: rgb(0, 0, 0);
+    background-image:linear-gradient(rgb(0, 255, 213),rgb(242, 18, 238)) ;
+    text-align: center;
+    /* width: 50%; */
+    /* margin: auto; */
+    /* padding: 10px; */
+    /* vertical-align: middle; */
+    border-bottom: black solid 2.5px;
+}
+
+.main{
+    border: black solid 2.5px;
+    padding: 0px;
+    text-align: center;
+    /* width: 30%; */
+    height: 400px;
+    /* outline: 50px; */
+    /* vertical-align: middle; */
+    line-height: 0px;
+    width: 30%;
+    margin-left: 50px;
+}
+
+.ListHeading{
+    font-size: 32px;
+    /* justify-items: center; */
+    
+}
+
+.table{
+    text-align: left;
+    padding: 10px;
+}
