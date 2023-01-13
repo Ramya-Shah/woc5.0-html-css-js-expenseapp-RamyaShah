@@ -76,3 +76,16 @@
 .buttons{
     text-align: left;
 }
+
+.list{
+    font-size: 20px;
+    margin: 12px;
+    border: 2px solid black;
+    padding: 0;
+    width: auto;
+    height: auto;
+}
+
+#expense{
+    margin: 15px;
+}
