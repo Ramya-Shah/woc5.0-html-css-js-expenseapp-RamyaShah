@@ -40,6 +40,7 @@
     line-height: 0px;
     width: 30%;
     margin-left: 50px;
+    border-radius: 20px;
 }
 
 .ListHeading{
@@ -51,4 +52,27 @@
 .table{
     text-align: left;
     padding: 10px;
+}
+
+#buttonleft{
+    /* float: left; */
+    margin-top: 10px;
+    margin-left: 120px;
+    font-style: italic;
+    font-size: 16px;
+    background-color: rgb(0, 195, 255);
+    /* margin: 50px; */
+}
+
+#buttoncentre{
+    /* float: left; */
+    margin-top: 10px;
+    margin-left: 5px;
+    font-style: italic;
+    font-size: 16px;
+    background-color: rgb(0, 195, 255);
+}
+
+.buttons{
+    text-align: left;
 }
